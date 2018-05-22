@@ -31,7 +31,7 @@ $RECYCLE.BIN/
 # Thumbnails
 ._*
 
-
+out/
 
 
 # Files that might appear on external disk
